@@ -1,0 +1,14 @@
+.myimg {
+    border-radius: 50%;
+    width: 300px;
+}
+
+
+
+#cv-generator {
+    display: none;
+}
+
+.background {
+    background-color: rgb(23, 100, 136);
+}
